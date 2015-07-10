@@ -1,6 +1,6 @@
 ﻿/*!
  * jQuery Pagination Plugin
- * http://mricle.com/JqueryPagination
+ * update from http://mricle.com/JqueryPagination
  * GitHub: https://github.com/virtuecai/pagination
  * Version: 1.2.7
  * Version: 1.2.7.1
